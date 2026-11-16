@@ -33,13 +33,17 @@ Based on Nielsen's usability heuristics:
 ## Proposed Redesign
 Four screens in a navy-blue, white and light-grey design system.
 
-| Student Dashboard | My Courses |
-|---|---|
-| ![Student Dashboard](wireframes/dashboard.png) | ![My Courses](wireframes/my-courses.png) |
+### Student Dashboard
+![Student Dashboard](wireframes/student-dashboard.png)
 
-| Course Details | Student Profile |
-|---|---|
-| ![Course Details](wireframes/course-details.png) | ![Student Profile](wireframes/profile.png) |
+### My Courses
+![My Courses](wireframes/my-courses.png)
+
+### Course Details
+![Course Details](wireframes/course-details.png)
+
+### Student Profile
+![Student Profile](wireframes/student-profile.png)
 
 ## Repository Structure
 - `research/` - project overview, usability evaluation, findings, HCI principles
